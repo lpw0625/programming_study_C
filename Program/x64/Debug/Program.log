@@ -1,0 +1,4 @@
+﻿  source.c
+C:\Users\OFFICE\Desktop\programming_study_C\Program\source.c(36,7): warning C4101: 'currency$' :참조되지 않은 지역 변수입니다.
+C:\Users\OFFICE\Desktop\programming_study_C\Program\source.c(37,8): warning C4101: 'under_score' :참조되지 않은 지역 변수입니다.
+  Program.vcxproj -> C:\Users\OFFICE\Desktop\programming_study_C\Program\x64\Debug\Program.exe
