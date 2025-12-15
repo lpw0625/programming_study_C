@@ -271,9 +271,89 @@ void main()
 
 
 
+#pragma region 비트 연산자
+
+	// 비트 단위로 논리 연산을 수행하기 위해 사용하는 연산자
+
+	// A & B = AND
+	// A | B = OR
+	// A ^ B = XOR
+	// A ~ B = NOT
+#pragma endregion
+
+#pragma region AND 연산자 
+	// 두 개의 피연산자가 모두 1이면 1을 반환하는 연산자
+
+	//int wisdom = 10;	// 0000 1010
+	//int dexterity = 6;// 0000 0110
+	//					// ===========
+	//					// 0000 0010
+
+	//printf("wisdom & dexterity : %d\n", wisdom & dexterity);
 
 
 
+#pragma endregion
+
+#pragma region OR 연산자
+	// 두 개의 피연산자 중에 하나라도 1이 있다면 1을 반환하는 연산자.
+
+	//	int poison = 8;		//	0000 1000
+	//	int freeze = 12;	//	0000 1100
+	//						//	============
+	//						//	0000 1100
+
+	//	printf("poison | freeze : %d\n", poison | freeze);
+
+#pragma endregion
+
+#pragma region XOR 연산자
+	// 두 개의 피연산자가 서로 같으면 0을 반환하고 서로 다르면 
+	// 1을 반환하는 연산자
+
+	//	int battle = 6;		// 0000 0110
+	//	int idle = 15;		//  0000 1111
+	//						// ============
+	//						// 0000 1001
+
+	//	printf("battle ^ idle : %d\n", battle ^ idle);
+			
+#pragma endregion
+
+#pragma region NOT 연산자
+
+	// 하나의 비트를 반전시키는 연산자
+
+	//int status = 13; // 0000 1101
+	//				// ========
+	//				// 1111 0010
+
+	//printf("~status : %d\n", ~status);
+
+	// 첫 번째 비트는 부호를 나타내며, 첫 번째 비트에
+	// 이 있다면 값은 음수가 된다.
+
+
+
+
+
+#pragma endregion
+
+
+#pragma region 시프트 연산자
+	//// 비트를 특정한 위치로 정해진 수만큼 이동시키는 연산자.
+
+	//int packet = 5; // 0000 0101;
+
+	//printf("packet 변수를 왼쪽으로 2칸 이동한 결과 : %d\n", packet << 2);
+
+	//printf("packet 변수를 오른쪽으로 1칸 이동한 결과 : %d\n", packet >> 1);
+
+#pragma endregion
+
+
+	// 메모리는 비트 단위로 데이터를 저장할 수 있으며. 
+	// 1개의 비트에는 0 또는 1의 값만 저장할 수 있다. 
 
 
 

@@ -1,4 +1,1 @@
-﻿  source.c
-C:\Users\PC2409\Desktop\programming_study_C\Class2th (Variable & Constant)\source.c(156,7): warning C4101: 'currency$' :참조되지 않은 지역 변수입니다.
-C:\Users\PC2409\Desktop\programming_study_C\Class2th (Variable & Constant)\source.c(157,8): warning C4101: 'under_score' :참조되지 않은 지역 변수입니다.
-  Class2th (Variable & Constant).vcxproj -> C:\Users\PC2409\Desktop\programming_study_C\Program\x64\Debug\Class2th (Variable & Constant).exe
+﻿
