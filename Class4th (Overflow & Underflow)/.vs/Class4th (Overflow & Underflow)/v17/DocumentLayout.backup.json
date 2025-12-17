@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OFFICE\\Desktop\\Class4th (Overflow \u0026 Underflow)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E94E0C1C-B1FA-4F4D-9900-3F29ED66B516}|Class4th (Overflow \u0026 Underflow).vcxproj|C:\\Users\\OFFICE\\Desktop\\Class4th (Overflow \u0026 Underflow)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E94E0C1C-B1FA-4F4D-9900-3F29ED66B516}|Class4th (Overflow \u0026 Underflow).vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\OFFICE\\Desktop\\Class4th (Overflow \u0026 Underflow)\\source.c",
+              "RelativeDocumentMoniker": "source.c",
+              "ToolTip": "C:\\Users\\OFFICE\\Desktop\\Class4th (Overflow \u0026 Underflow)\\source.c*",
+              "RelativeToolTip": "source.c*",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAF0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-17T11:03:53.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

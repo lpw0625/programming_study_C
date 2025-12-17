@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class4th (Overflow & Underflow)", "Class4th (Overflow & Underflow).vcxproj", "{E94E0C1C-B1FA-4F4D-9900-3F29ED66B516}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E94E0C1C-B1FA-4F4D-9900-3F29ED66B516}.Debug|x64.ActiveCfg = Debug|x64
+		{E94E0C1C-B1FA-4F4D-9900-3F29ED66B516}.Debug|x64.Build.0 = Debug|x64
+		{E94E0C1C-B1FA-4F4D-9900-3F29ED66B516}.Debug|x86.ActiveCfg = Debug|Win32
+		{E94E0C1C-B1FA-4F4D-9900-3F29ED66B516}.Debug|x86.Build.0 = Debug|Win32
+		{E94E0C1C-B1FA-4F4D-9900-3F29ED66B516}.Release|x64.ActiveCfg = Release|x64
+		{E94E0C1C-B1FA-4F4D-9900-3F29ED66B516}.Release|x64.Build.0 = Release|x64
+		{E94E0C1C-B1FA-4F4D-9900-3F29ED66B516}.Release|x86.ActiveCfg = Release|Win32
+		{E94E0C1C-B1FA-4F4D-9900-3F29ED66B516}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FF5FAC6-2317-4C89-896D-E2B85DAD58FA}
+	EndGlobalSection
+EndGlobal
