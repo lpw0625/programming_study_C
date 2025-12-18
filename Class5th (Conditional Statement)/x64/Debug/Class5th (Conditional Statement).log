@@ -1,0 +1,2 @@
+﻿  source.c
+C:\Users\PC2409\Desktop\programming_study_C\Class5th (Conditional Statement)\source.c(298,1): error C4700: 초기화되지 않은 'damage' 지역 변수를 사용했습니다.

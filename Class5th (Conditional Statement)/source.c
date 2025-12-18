@@ -286,5 +286,110 @@ void main()
 
 #pragma endregion
 
+#pragma region 반복문
+
+    // 프로그램 내에서 특정한 작업을 반복적으로
+    // 수행하는 명령문.
+
+#pragma region 증감 연산자
+//    // 피연산자를 하나씩 증가시키거나 감소시킬 때
+//    // 사용하는 연산자
+//
+//
+//// 전위 증가
+//
+//int damage = 0;
+//
+//int damageScore = ++damage;
+//
+// 
+//printf("damageScore : %d\n" , damageScore);
+//printf("damage : %d\n" , damage);
+//
+//// 전위 감소
+//
+//int heal = 0;
+//
+//int healScore = --heal;
+//
+//
+//printf("damageScore : %d\n", healScore);
+//printf("damage : %d\n", heal);
+//
+//// 전위 증감 연산자는 변수의 값을 증감시킨 후에
+//// 연산을 수행.
+
+
+//int money = 0;
+//
+//int coinMoney = money++;
+//
+//printf("coinMoney : %d\n", coinMoney);
+//printf("money : %d\n", money);
+//
+//
+//coinMoney = money--;
+//
+//printf("coinMoney : %d\n", coinMoney);
+//printf("money : %d\n", money);
+
+
+#pragma endregion
+
+
+
+#pragma endregion
+
+#pragma region for문
+        // 초기식을 연산하여 조건식의 결과에 따라 특정한
+        // 횟수만큼 반복하는 반복문
+
+//for (int i = 0;i < 5; i++)
+//{
+//  
+//    printf("start : \n");
+//}
+
+// 반복문이 동작되는 순서는 초기화 → 조건 검사 → 증감의 구조로 동작
+
+
+
+#pragma endregion
+
+#pragma region while문
+    // 특정 조건을 만족할 때까지 계속해서 주어진 명령문을 실행하는 반복문
+
+//int count = 1;
+//
+//while (count <= 5)
+//{
+//    printf("count : %d\n", count);
+//
+//    count++;
+//}
+//
+//    // 반복문은 순차적으로 실행하면서 조건 분기(Branch)를 만나게 되면, 어느 쪽으로
+//    // 실행 흐름이 같지 미리 예측(Branch prediction) 합니다.
+
+
+#pragma endregion
+
+#pragma region do while문
+    // 조건과 상관없이 한 번의 작업을 수행한 다음 조건에 따라 영향문을 실행하는 반복문
+
+//int connect = 0;
+//
+//do
+//{
+//    printf("Access");
+//
+//    while (connect > 10);
+//}
+
+#pragma endregion
+
+
+
+
 
 }
