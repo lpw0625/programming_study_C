@@ -388,6 +388,29 @@ void main()
 
 #pragma endregion
 
+#pragma region Continue문
+// 해당 조건문만 실행하지 않고 반복문은 이어서
+// 실행하는 제어문
+
+//int main() {
+//    
+//    for (int i = 1; i <= 5; i++) 
+//    {
+//
+//        
+//        if (i == 3) 
+//        {
+//            continue;
+//        }
+//
+//        printf("%d", i);
+//
+//    }
+//    }
+//
+//
+//}
+#pragma endregion
 
 
 
