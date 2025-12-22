@@ -1,0 +1,4 @@
+﻿  source.c
+C:\Users\PC2409\Desktop\programming_study_C\Class7th (Type Conversion)\source.c(53,9): warning C4477: 'printf' : 서식 문자열 '%p'에 'void *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\PC2409\Desktop\programming_study_C\Class7th (Type Conversion)\source.c(53,9): warning C4313: 'printf': 서식 문자열의 '%p'이(가) int' 형식의 인수 1과(와) 충돌합니다.
+  Class7th (Type Conversion).vcxproj -> C:\Users\PC2409\Desktop\programming_study_C\Class7th (Type Conversion)\x64\Debug\Class7th (Type Conversion).exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC2409\\Desktop\\programming_study_C\\Class7th (Type Conversion)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D428F2-7CF8-44D2-844C-7B3BE1B52ACD}|Class7th (Type Conversion).vcxproj|C:\\Users\\PC2409\\Desktop\\programming_study_C\\Class7th (Type Conversion)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5D428F2-7CF8-44D2-844C-7B3BE1B52ACD}|Class7th (Type Conversion).vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\PC2409\\Desktop\\programming_study_C\\Class7th (Type Conversion)\\source.c",
+              "RelativeDocumentMoniker": "source.c",
+              "ToolTip": "C:\\Users\\PC2409\\Desktop\\programming_study_C\\Class7th (Type Conversion)\\source.c",
+              "RelativeToolTip": "source.c",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-22T11:03:57.011Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
