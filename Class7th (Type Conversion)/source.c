@@ -68,6 +68,25 @@ void main()
 		
 #pragma endregion
 
+#pragma region 포인터 상수
+	// 포인터 변수가 가리ㅣ고 잇는 주소 값을 변경할 수 
+	// 없는 포인터 .
+
+	/*int abc = 30;
+	int def = 50;
+
+	int * const orq = &def;
+
+	*orq = 99;
+
+	printf("변수의 값은 : ", *orq);
+	printf("변수의 값은 : ", abc);*/
+
+#pragma endregion
+
+#pragma region 허상 포인터 
+	// 이미 해제된 메모리 영역을 가리키는 포인터
+#pragma endregion
 
 
 
