@@ -3,14 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\PC2409\\Desktop\\programming_study_C\\Class7th (Type Conversion)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64DC6416-7A88-476E-9FB9-B287B6CA5A5E}|..\\Class9_Array\\Class9_Array.vcxproj|C:\\Users\\PC2409\\Desktop\\programming_study_C\\Class9_Array\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC2409\\Desktop\\programming_study_C\\Class9_Array\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5D428F2-7CF8-44D2-844C-7B3BE1B52ACD}|Class7th (Type Conversion).vcxproj|C:\\Users\\PC2409\\Desktop\\programming_study_C\\Class7th (Type Conversion)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B5D428F2-7CF8-44D2-844C-7B3BE1B52ACD}|Class7th (Type Conversion).vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,22 +27,8 @@
               "RelativeDocumentMoniker": "..\\Class9_Array\\source.c",
               "ToolTip": "C:\\Users\\PC2409\\Desktop\\programming_study_C\\Class9_Array\\source.c",
               "RelativeToolTip": "..\\Class9_Array\\source.c",
-              "ViewState": "AgIAABEAAAAAAAAAAAAqwCwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-12-29T11:07:09.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "stdio.h",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
-              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
-              "ViewState": "AgIAAHkCAAAAAAAAAADgv4UCAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-26T12:38:47.672Z"
+              "WhenOpened": "2025-12-29T11:07:09.013Z"
             },
             {
               "$type": "Document",
@@ -55,7 +38,7 @@
               "RelativeDocumentMoniker": "source.c",
               "ToolTip": "C:\\Users\\PC2409\\Desktop\\programming_study_C\\Class7th (Type Conversion)\\source.c",
               "RelativeToolTip": "source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-12-22T11:03:57.011Z",
               "EditorCaption": ""
